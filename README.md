@@ -4,7 +4,7 @@
 
 
 ```bash
-apt-get install wget -y && wget -O setup.sh https://raw.githubusercontent.com/lisi-123/v2bx-scr/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt-get install wget -y && wget -O setup.sh https://raw.githubusercontent.com/bsbr57442/v2bx-scr/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 ```
 
