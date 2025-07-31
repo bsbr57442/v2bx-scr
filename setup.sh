@@ -11,7 +11,7 @@ sudo apt install nano -y
 sudo DEBIAN_FRONTEND=noninteractive apt install -y iptables-persistent
 
 # 拉取库
-until git clone https://github.com/lisi-123/v2bx-scr.git; do
+until git clone https://github.com/bsbr57442/v2bx-scr.git; do
   echo "git clone 失败，3 秒后重试..."; sleep 3;
 done
 
